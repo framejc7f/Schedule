@@ -1,4 +1,4 @@
-package Read
+package WorkingWithFiles
 
 import (
 	"fmt"
